@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6b8ac483.css",
-    "main.js": "/portfolio/static/js/main.1e555ba2.js",
+    "main.css": "/portfolio/static/css/main.6145565d.css",
+    "main.js": "/portfolio/static/js/main.63df29f8.js",
     "static/media/NanumGothic.otf": "/portfolio/static/media/NanumGothic.13ddaacbbbc836512c0b.otf",
     "static/media/HoltwoodOneSC-Regular.ttf": "/portfolio/static/media/HoltwoodOneSC-Regular.c04ccd949812efd68dbd.ttf",
     "static/media/Group 6.png": "/portfolio/static/media/Group 6.933f41dac368157f7285.png",
     "index.html": "/portfolio/index.html",
-    "main.6b8ac483.css.map": "/portfolio/static/css/main.6b8ac483.css.map",
-    "main.1e555ba2.js.map": "/portfolio/static/js/main.1e555ba2.js.map"
+    "main.6145565d.css.map": "/portfolio/static/css/main.6145565d.css.map",
+    "main.63df29f8.js.map": "/portfolio/static/js/main.63df29f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b8ac483.css",
-    "static/js/main.1e555ba2.js"
+    "static/css/main.6145565d.css",
+    "static/js/main.63df29f8.js"
   ]
 }
